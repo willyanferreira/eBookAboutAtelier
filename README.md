@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
+    <img width="100" src="./assets/ChatGPTImage01Capa.png">
 </p>
 
 
@@ -19,7 +19,7 @@
 
 Projeto com o objetivo de gerar um ebook com as facilidades do ChatGPT e CANVA.
 
-<a href="https://www.instagram.com/atelier_quelferreira/assets/.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://www.instagram.com/atelier_quelferreira/assets/eBook_Atelier_Raquel_Ferreira.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
