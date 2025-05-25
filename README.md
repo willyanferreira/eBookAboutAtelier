@@ -19,7 +19,7 @@
 
 Projeto com o objetivo de gerar um ebook com as facilidades do ChatGPT e CANVA.
 
-<a href="https://www.instagram.com/atelier_quelferreira/assets/eBook_Atelier_Raquel_Ferreira.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/willyanferreira/eBookAboutAtelier/blob/main/assets/eBook_Atelier_Raquel_Ferreira.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
